@@ -34,7 +34,7 @@ Compilation
 Running
 =======
 
-    You can test your binary dooing:
+    You can test your binary doing:
 
     ./src/streamermlt testmovie.ogg
 
